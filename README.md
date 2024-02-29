@@ -131,16 +131,3 @@ Blank-c
 6. Fill in the fields of the builder and press the <kbd>Build</kbd> button.
 
 [![Tutorial video](https://img.shields.io/badge/Watch-Tutorial-blue?style=for-the-badge&logo=youtube)](https://streamable.com/r9sa14)
-
-## Support the Project
-
-If you find this project useful and would like to show your support, you can make a donation using the following cryptocurrencies:
-
-- **Bitcoin (BTC):**
-  - Wallet Address: bc1quyf7d2cwrd0rgtyhtjt7ermxlw4hzg8npr4yce
-
-- **Ethereum (ETH):**
-  - Wallet Address: 0x54Ab5743141c781178863e3F658d48Cb9564f520
-
-- **USDT (Tron network):**
-  - Wallet Address: TJsixSZ9LDpn3ZNF8pEKmfNaNkMTrK1hWJ
